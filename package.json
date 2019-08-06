@@ -1,0 +1,24 @@
+{
+  "name": "sendamp",
+  "version": "1.0.0",
+  "description": "send amp emails",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonghuang18/sendamp.git"
+  },
+  "keywords": [
+    "send",
+    "amp",
+    "emails"
+  ],
+  "author": "yong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonghuang18/sendamp/issues"
+  },
+  "homepage": "https://github.com/yonghuang18/sendamp#readme"
+}
