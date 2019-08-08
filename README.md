@@ -15,4 +15,4 @@ password: 'balabala',
 service: 'Gmail'
 
 2) Run the tool with below command line:
-node app.js -t "amphtmltest@outlook.com" -s "Hello AMP from sendamp tool" -af "<path to amp file>"
+node app.js -t "amphtmltest@outlook.com" -s "Hello AMP from sendamp tool" -af "Hello.html"
