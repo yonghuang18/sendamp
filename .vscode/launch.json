@@ -11,10 +11,10 @@
             "program": "${workspaceFolder}\\app.js",
             "args": [
                 "-t",
-                "yonghuang18@gmail.com",
+                "amphtmltest@outlook.com",
                 "-s",
                 "Hello AMP",
-                "--ampfile",
+                "-a",
                 "HelloAmp.html",
             ]
         }
