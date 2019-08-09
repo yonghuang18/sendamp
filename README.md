@@ -1,5 +1,5 @@
 # sendamp
-This is a nodejs app that allows you to send email with amp.
+This is a super simple nodejs app that allows you to send test email with amp.
 
 To use the tool, first set the sender credentials in config.js
 
@@ -13,7 +13,7 @@ For gmail, use
 - password: 'balabala',
 - service: '**Gmail**'
 
-Then run the tool like below:
+Then run the tool like:
 node app.js -t "amphtmltest@outlook.com" -s "Hello AMP from sendamp tool" -a "HelloAmp.html"
 
 Or the long one:
