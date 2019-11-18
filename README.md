@@ -20,6 +20,3 @@ node app.js -t "amphtmltest@outlook.com" -s "Hello AMP from sendamp tool" -a "He
 Or the long one:
 
 node app.js --to "amphtmltest@outlook.com" --subject "Hello AMP from sendamp tool" --ampfile "HelloAmp.html"
-
-## Known issues
-From testing so far, it worked for gmail to gmail, or gmail to outlook, but not outlook to outlook. For outlook to outlook, there will be two copies of the email, one in sender's sent items and the other in receiver's inbox. The one in sent items will work which has the amp. The one in receiver's inbox won't have the amp.
